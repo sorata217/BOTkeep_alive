@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Ping Replit 1
         run: |
-          curl -m 10 https://replit.com/@tokudome217/levelbot || true
+          curl -m 10 https://a29c32cb-c748-4931-95f1-3416ec0015e4-00-2uu454amtfpg6.picard.replit.dev/ || true
 
       - name: Ping Replit 2
         run: |
