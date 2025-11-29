@@ -15,4 +15,4 @@ jobs:
 
       - name: Ping Replit 2
         run: |
-          curl -m 10 https://replit.com/@tokudome217/mpie_bot || true
+          curl -m 10 https://5973af95-7511-4ec9-86ed-22a779878fad-00-1cdv6ipdf1yex.pike.replit.dev/ || true
