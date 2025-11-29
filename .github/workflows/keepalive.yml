@@ -12,7 +12,3 @@ jobs:
       - name: Ping Replit 1
         run: |
           curl -m 10 https://a29c32cb-c748-4931-95f1-3416ec0015e4-00-2uu454amtfpg6.picard.replit.dev/ || true
-
-      - name: Ping Replit 2
-        run: |
-          curl -m 10 https://5973af95-7511-4ec9-86ed-22a779878fad-00-1cdv6ipdf1yex.pike.replit.dev/ || true
