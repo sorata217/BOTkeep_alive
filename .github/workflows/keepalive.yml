@@ -9,6 +9,11 @@ jobs:
   ping:
     runs-on: ubuntu-latest
     steps:
-      - name: Ping Replit
+      - name: Ping Replit 1
         run: |
           curl -m 10 https://replit.com/@tokudome217/levelbot || true
+
+      - name: Ping Replit 2
+        run: |
+          curl -m 10 https://replit.com/@tokudome217/mpie_bot || true
+                - name: Ping Replit 1
